@@ -1,0 +1,7 @@
+storage:
+  type: "SQLITE" # MYSQL | SQLITE
+  credentials:
+    host: "localhost"
+    password: ""
+    user: "root"
+    database: "test"

@@ -1,0 +1,3 @@
+main: com.redeharles.factions.FactionsPlugin
+version: 1.0-SNAPSHOT
+name: Factions
